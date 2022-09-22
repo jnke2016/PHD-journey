@@ -6,10 +6,10 @@
 name: Joseph Marie Nke
 
 # Short bio or description (displayed in the header)
-description: PHD student in computer science at Texas State University.
+description: Web Developer from Somewhere
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/152472018_3573024556129961_2257314868237925354_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ACw8KUux7RwAX__lXxr&_nc_ht=scontent-atl3-2.xx&oh=00_AT_dedtvLXI3EMVEzEncgwXIuiaRBIAWXPdSI5oLNl51xw&oe=63540389
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
 # Flags below are optional
@@ -26,7 +26,7 @@ footer-links:
   linkedin: https://www.linkedin.com/in/joseph-nke-197710141/
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter:
+  twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -47,7 +47,7 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "PHD-journey"
+baseurl: ""
 
 #
 # !! You don't need to change any of the configuration flags below !!
